@@ -6,8 +6,4 @@ h1 {
 color: navy;
 margin-left: 20px;
 }
-
-//this is is cat this is dog this is 
-=======
 //this is is cat this is dog
-
